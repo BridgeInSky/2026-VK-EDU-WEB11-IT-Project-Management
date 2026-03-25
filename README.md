@@ -1,1 +1,1 @@
-# -2026-VK-EDU-WEB11-IT-Project-Management
+# 2026-VK-EDU-WEB11-IT-Project-Management
