@@ -9,4 +9,4 @@ SmartHome Hub — это B2B2C-экосистема. Мы не берем ком
 
 Lean Canvas
 -
-![Изображение](https://github.com/BridgeInSky/2026-VK-EDU-WEB11-IT-Project-Management/blob/master/Снимок%20экрана%202026-05-05%20151412.png)
+![Изображение](https://github.com/BridgeInSky/2026-VK-EDU-WEB11-IT-Project-Management/blob/master/Снимок%20экрана%202026-05-05%20151929.png)
