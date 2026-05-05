@@ -309,9 +309,11 @@ C4 и технологический стек
 -
 ### 1. C4: Уровень 1 — Контекст системы
 
+![Изображение](https://github.com/BridgeInSky/2026-VK-EDU-WEB11-IT-Project-Management/blob/master/Контекст%20системы.png)
 
 ### 2. C4: Уровень 2 — Контейнеры
 
+![Изображение](https://github.com/BridgeInSky/2026-VK-EDU-WEB11-IT-Project-Management/blob/master/Контейнеры.png)
 
 ### 3. Технологический стек. Обоснование.
 
