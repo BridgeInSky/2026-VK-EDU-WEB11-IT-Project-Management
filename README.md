@@ -230,17 +230,17 @@ DDD, BDD, Wireframes, API
 
 #### Экран 1 – Карточка товара с кнопкой вызова мастера
 
+![Изображение](https://github.com/BridgeInSky/2026-VK-EDU-WEB11-IT-Project-Management/blob/master/Карточка%20товара.png)
 
 
+#### Экран 2 – Вызов мастера
 
-#### Экран 2 – Подтверждение заказа с предоплатой
-
-
+![Изображение](https://github.com/BridgeInSky/2026-VK-EDU-WEB11-IT-Project-Management/blob/master/Выбор%20мастера.png)
 
 
 #### Экран 3 – Личный кабинет мастера
 
-
+![Изображение](https://github.com/BridgeInSky/2026-VK-EDU-WEB11-IT-Project-Management/blob/master/Личный%20кабинет%20мастера.png)
 
 
 
